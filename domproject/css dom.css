@@ -1,0 +1,25 @@
+body{
+    background-color: green;
+}
+.first{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.second{
+    margin-top: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.final p{
+    text-align: center;
+    margin-top: 10px;
+    font-size:100px;
+    background-color : white; 
+}
+.heart{
+    font-size: 70px;
+}
